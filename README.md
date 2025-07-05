@@ -6,5 +6,5 @@ Por ejemplo:
 "Haz clic en los botones para agregar productos al carrito. Llena el formulario para simular una compra."
 
 enlace Git: 👉 Puedes ver el sitio aquí:  
-https://stephaniealcaide.github.io/TimbrArte/
+https://stephyalcaide.github.io/TimbrArte/
 
